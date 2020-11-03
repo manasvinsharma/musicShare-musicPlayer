@@ -1,3 +1,8 @@
+# Music-Share & Music-playing app
+Users can add & play songs using URL of Youtube or Soundcloud.Users can maintain a queue for favourite songs too.
+It uses React (Material ui) for frontend , Hasura for database with graphql. 
+Go to master branch for code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
